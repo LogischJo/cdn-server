@@ -4,11 +4,11 @@
 
 ---
 
-# Blob Project: CDN (OSS)
+# Blob Project: CDN (Open-Source)
 Easy-to-use, customizable, secured, up-to-date and minimalist.
 
 ## Documentations
-Coming Soon.
+**Coming Soon.**
 
 ## Getting Started
 This project runs on [Node.js](https://nodejs.org/en/blog/release/v14.16.0/). Please make sure that everything is up-to-date.
