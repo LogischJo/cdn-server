@@ -56,5 +56,8 @@ For major changes, please open an issue first to discuss what you would like to 
 
 Please make sure to update tests as appropriate.
 
+## Changelog
+You can check our updated changelog in [here](https://github.com/Blob-Development/cdn-server/CHANGELOG.md).
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
