@@ -16,8 +16,8 @@
     "ms": "^2.0.0"
   },
   "scripts": {
-        "start": "node --expose-gc --max-old-space-size=2048 server.js",
-        "test": "node server.js"
+    "start": "node --expose-gc --max-old-space-size=2048 server.js",
+    "test": "node server.js"
   },
   "repository": {
     "type": "git",
