@@ -19,7 +19,7 @@ It is important to use our recommended essentials version down below to prevent 
 - [nginx](http://nginx.org/) (nginx/1.14.0)
 - [Ubuntu](https://ubuntu.com/) (18.04)
 - [Node.js](https://nodejs.org/en/blog/release/v14.16.0/) (v14.16.0)
-- 
+
 You can install the dependencies/packages by running:
 ```shell script
 npm i --save
