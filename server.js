@@ -48,8 +48,8 @@ app.get('/favicon.ico', (req, res) => res.status(200).sendFile(assets + "/favico
 // dont let any robots crawl this thing
 app.get('/robots.txt', (req, res) => res.sendFile(assets + "/robots.txt"));
 
-// example: https://cdn.blob-project.com/, use "res.status(200).send("ok")" if you want to.
-app.get("/", (req, res) => res.status(200).sendFile(assets + "/main.html"));
+// example: https://cdn.blob-project.com/
+app.get("/", (req, res) => res.status(200).send("ok"));
 
 // some sort of error handling
 app.use("/files", (req, res, next) => {
