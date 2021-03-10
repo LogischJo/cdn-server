@@ -32,7 +32,12 @@ We put our **files** in the folder, and create a new subdirectory again.
 ## Testing
 You can easily launch the server by running: (with port: **1111**)
 ```shell script
-node server
+npm run start
+```
+
+For testing/development mode, you can use:
+```shell script
+npm run test
 ```
 
 ## Contributions
