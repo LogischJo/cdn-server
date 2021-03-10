@@ -28,7 +28,7 @@ app.use(helmet());
 // cors
 app.use(cors(corsOpt));
 
-// compress the file
+// compress the file, always compress it, no matter what
 app.use(compression());
 
 // i dont think this thing should be cached.
