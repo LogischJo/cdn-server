@@ -59,5 +59,8 @@ Please make sure to update tests as appropriate.
 ## Changelog
 You can check our updated changelog in [here](https://github.com/Blob-Development/cdn-server/blob/main/CHANGELOG.md).
 
+## Demo
+https://files.blob-project.com
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
