@@ -5,7 +5,7 @@
 ---
 
 # Blob Project: CDN (OSS)
-Easy, customizable, secured, and up-to-date.
+Easy-to-use, customizable, secured, up-to-date and minimalist.
 
 ## Documentations
 Coming Soon.
@@ -28,6 +28,12 @@ Currently, every recent changes will changed automatically, purge the cache ever
 
 ## Files
 We put our **files** in the folder, and create a new subdirectory again.
+
+## Testing
+You can easily launch the server by running: (with port: **1111**)
+```shell script
+node server
+```
 
 ## Contributions
 Pull requests are welcome.
